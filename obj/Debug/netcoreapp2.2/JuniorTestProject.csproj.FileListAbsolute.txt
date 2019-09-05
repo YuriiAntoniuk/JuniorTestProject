@@ -1,0 +1,16 @@
+E:\Install\JuniorTestProject\bin\Debug\netcoreapp2.2\JuniorTestProject.deps.json
+E:\Install\JuniorTestProject\bin\Debug\netcoreapp2.2\JuniorTestProject.runtimeconfig.json
+E:\Install\JuniorTestProject\bin\Debug\netcoreapp2.2\JuniorTestProject.runtimeconfig.dev.json
+E:\Install\JuniorTestProject\bin\Debug\netcoreapp2.2\JuniorTestProject.dll
+E:\Install\JuniorTestProject\obj\Debug\netcoreapp2.2\JuniorTestProject.csprojAssemblyReference.cache
+E:\Install\JuniorTestProject\obj\Debug\netcoreapp2.2\JuniorTestProject.csproj.CoreCompileInputs.cache
+E:\Install\JuniorTestProject\obj\Debug\netcoreapp2.2\JuniorTestProject.RazorAssemblyInfo.cache
+E:\Install\JuniorTestProject\obj\Debug\netcoreapp2.2\JuniorTestProject.RazorAssemblyInfo.cs
+E:\Install\JuniorTestProject\obj\Debug\netcoreapp2.2\JuniorTestProject.AssemblyInfoInputs.cache
+E:\Install\JuniorTestProject\obj\Debug\netcoreapp2.2\JuniorTestProject.AssemblyInfo.cs
+E:\Install\JuniorTestProject\obj\Debug\netcoreapp2.2\JuniorTestProject.RazorTargetAssemblyInfo.cache
+E:\Install\JuniorTestProject\bin\Debug\netcoreapp2.2\JuniorTestProject.pdb
+E:\Install\JuniorTestProject\obj\Debug\netcoreapp2.2\JuniorTestProject.dll
+E:\Install\JuniorTestProject\obj\Debug\netcoreapp2.2\JuniorTestProject.pdb
+E:\Install\JuniorTestProject\bin\Debug\netcoreapp2.2\JuniorTestProject.xml
+E:\Install\JuniorTestProject\obj\Debug\netcoreapp2.2\JuniorTestProject.xml

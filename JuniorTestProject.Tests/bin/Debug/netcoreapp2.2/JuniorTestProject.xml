@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>JuniorTestProject</name>
+    </assembly>
+    <members>
+        <member name="M:JuniorTestProject.Controllers.BookController.GetAllBooks">
+            <summary>
+                Get list of all books in database
+            </summary>
+            <returns>List of all books</returns>
+            <response code="200">Returns all books</response>
+        </member>
+        <member name="M:JuniorTestProject.Controllers.BookController.GetBookById(System.Int32)">
+            <summary>
+                Get one book by chosen id
+            </summary>
+            <param name="id"></param> 
+            <returns>Information about one book</returns>
+            <response code="200">Returns book by id</response>
+            <response code="400">If id is not a number</response>
+            <response code="404">If book wasn't found by id</response> 
+        </member>
+        <member name="M:JuniorTestProject.Controllers.BookController.AddBook(JuniorTestProject.Models.BookAddModel)">
+            <summary>
+                Add new book to database
+            </summary>
+            <param name="book"></param> 
+            <returns>Created book</returns>
+            <response code="201">Returns created book</response>
+            <response code="400">If the book that you are trying to send is not valid</response>
+        </member>
+        <member name="M:JuniorTestProject.Controllers.BookController.UpdateBookById(JuniorTestProject.Models.Book)">
+            <summary>
+                Update existing book in database
+            </summary>
+            <param name="id"></param> 
+            <param name="book"></param>
+            <returns>Status code that will inform you that book was updated</returns>
+            <response code="204">Returns the information about user  and token</response>
+            <response code="400">If the id is not a number or if the book model is not valid</response>
+            <response code="404">If book, that you want to update doesn't exist</response> 
+        </member>
+        <member name="M:JuniorTestProject.Controllers.BookController.DeleteBook(System.Int32)">
+            <summary>
+                Delete chosen book by id
+            </summary>
+            <param name="id"></param> 
+            <returns>Information that tells to you that book was deleted</returns>
+            <response code="204">Book was deleted</response>
+            <response code="400">If id is not a number</response>
+            <response code="404">If book with this id wasn't found</response> 
+        </member>
+    </members>
+</doc>
